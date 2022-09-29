@@ -36,6 +36,7 @@ Online Research
 _______________
 Identifying which repository has material of interest  
 What’s available from a distance? 
+
 - Catalog  
 - Subject Guides  
 
@@ -62,9 +63,11 @@ System for tracking research - it can be as simple as using your research notebo
 Access Copies/Reference Access copy photographs  
 _______________________________________________
 Not all archives permit photography – or if they do, there are usually parameters which you'll want to be aware of. In the case that you are photographing the collection, you'll want to make sure to capture the folder structure of the material – collection level, folder level, item level (if possible)  
+
 - Tip - often if you have little time in the archive, you might want to take many photos (assuming that is permitted) and spend your time reading once you get home. 
 - It is important to remember, too, that these repositories are federal agencies and come with a fair amount of bureaucracy. That might mean that things move more slowly given the chain of command and approval processes. It might also mean that the reference staff are working on a contract given how time-consuming and difficult it is to create federal positions. This is important to remember because it can be tempting to think (as it was for me) that federal archives have a lot of capacity, when it can be the opposite. 
 - It might be that you have feedback for reference staff regarding the materials you consulted or want to request items to be digitized. In either case, the repository likely has workflows for these, so if they are not explicitly stated on the website, just ask the staff what the best way to go about that is.  
+
 We recommend sorting your photos and file naming them while everything is still fresh in your mind – and doing so according to the folder structure so that you can trace your steps back to the item, cite it properly, etc. 
 
 Note taking 
@@ -72,6 +75,7 @@ ___________
 System for documenting research – these can take a variety of forms and be organized in a variety of ways, but whatever system you decide to use should be tailored to what works best for you and your own workflows.  Examples include notetaking software such as OneNote (which we used), notebook, word document, spreadsheet etc. 
 
 Tips and tricks include:
+
 - Color coding 
 - Organization 
 - Keywords, Names, Subjects 
