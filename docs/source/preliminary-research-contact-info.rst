@@ -32,15 +32,18 @@ https://catalog.loc.gov/index.html
 Tips & Tricks to Searching Online Catalogs 
 __________________________________________
 Locating online catalogs  
-
 - Where to find them from a general google search or from the institutional website 
+
 Navigating online catalogs (Collections Search & SOVA & LOC)  
 - Short demo video might be best way to explain this rather than a bunch of screenshots? 
+
 Narrowing searches down 
 - Using the “archival repository” or “type” or “culture” or “division” parameters on the online catalog 
+
 Identifying digitized content in catalogs  
 - For Smithsonian material - look for the blue box icon labeled “digitized content” next to the collection name 
 - For Library of Congress material – look for a note in the catalog record or a media image will be included in the record 
+
 Search terms (each institution will have their own specific search terms that work best) 
 - Culture group, tribal community name, collector, artist, linguist, language, place name, geographical location   
 
