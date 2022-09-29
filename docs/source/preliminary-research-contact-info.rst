@@ -16,7 +16,8 @@ One of the most important tools at your disposal as a researcher is a repository
 All of that said, it takes some amount of trial and error to figure out how to navigate online catalogues in a way that is most useful for you and your research. Don’t be discouraged if you try a few searches that turn up few or no relevant results. Once you have a better sense of how things are organized in the catalog, then your search will likely change and become more specific to that particular archive, its history, and its holdings. 
 
 .. note::
- "They allow you to know as much as you can know from a dsitance, which is sometimes all you have."
+
+   "They allow you to know as much as you can know from a dsitance, which is sometimes all you have."
  
 Collections Search Center (Smithsonian Institution) 
 https://collections.si.edu/search/  
