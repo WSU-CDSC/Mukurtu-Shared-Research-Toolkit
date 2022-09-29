@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Mukurtu Shared Research Toolkit
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The Research Toolkit is...
 
 .. note::
 
@@ -18,5 +12,9 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   research-best-practices
+   preliminary-research-contact-info
+   in-person-advanced-remote-research
+   requesting-receiving-digitizing-media-metadata
+   feedback-follow-up
+   appendices-other-materials
