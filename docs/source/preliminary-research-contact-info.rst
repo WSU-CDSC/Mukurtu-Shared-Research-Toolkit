@@ -62,9 +62,10 @@ ___________________
 While it is always a good idea to do some preliminary online research, we also strongly recommend getting in touch with reference staff about your research subject. They are familiar with the idiosyncrasies of their repository, as well as relevant collections that may not come up in your search.  
 
 Each institution has a preferred method of communication for being in touch:  
-- The National Anthropological Archives: All questions and inquiries should be directed to naa@si.edu.  Questions and inquiries can also be made by phone at (301)-238-1310.    
-- National Museum of the American Indian – Archives Center:  All questions and inquiries should be directed to nmaiarchives@si.edu.   If you are specifically interested in photographs, those questions can be directed to the photo archives at nmaiphotos@si.edu.  
-- The Library of Congress: All questions and inquiries can be made via the Ask-a-Librarian general submission form on the Library of Congress website. If you have a sense of what type of materials you are interested in (e.g. manuscripts, photographs, maps, etc.) or regarding questions about materials you’ve already consulted, you can direct your question to a specific division.  To do so, simply click on the “Ask a specialist” tab and then select the desired division. The specific Ask-a-Librarian pages for the four Library of Congress divisions involved in the Mukurtu Shared Project are: 
+
+- The National Anthropological Archives: All questions and inquiries should be directed to naa@si.edu. Questions and inquiries can also be made by phone at (301)-238-1310.    
+- National Museum of the American Indian – Archives Center: All questions and inquiries should be directed to nmaiarchives@si.edu. If you are specifically interested in photographs, those questions can be directed to the photo archives at nmaiphotos@si.edu.  
+- The Library of Congress: All questions and inquiries can be made via the Ask-a-Librarian general submission form on the Library of Congress website. If you have a sense of what type of materials you are interested in (e.g. manuscripts, photographs, maps, etc.) or regarding questions about materials you’ve already consulted, you can direct your question to a specific division. To do so, simply click on the “Ask a specialist” tab and then select the desired division. The specific Ask-a-Librarian pages for the four Library of Congress divisions involved in the Mukurtu Shared Project are: 
 
   - AFC: https://ask.loc.gov/american-folklife   
   - MSS: https://ask.loc.gov/manuscripts  
