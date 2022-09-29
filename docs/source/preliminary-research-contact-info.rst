@@ -18,7 +18,8 @@ All of that said, it takes some amount of trial and error to figure out how to n
 .. note::
 
    "They allow you to know as much as you can know from a dsitance, which is sometimes all you have."
- 
+
+
 Collections Search Center (Smithsonian Institution) 
 https://collections.si.edu/search/  
 
@@ -31,6 +32,7 @@ https://catalog.loc.gov/index.html
 Tips & Tricks to Searching Online Catalogs 
 __________________________________________
 Locating online catalogs  
+
 - Where to find them from a general google search or from the institutional website 
 Navigating online catalogs (Collections Search & SOVA & LOC)  
 - Short demo video might be best way to explain this rather than a bunch of screenshots? 
