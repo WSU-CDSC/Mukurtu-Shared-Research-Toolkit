@@ -19,32 +19,31 @@ All of that said, it takes some amount of trial and error to figure out how to n
 
    "They allow you to know as much as you can know from a dsitance, which is sometimes all you have."
 
-
-Collections Search Center (Smithsonian Institution) 
-https://collections.si.edu/search/  
-
-Smithsonian Online Virtual Archive (SOVA) 
-https://sova.si.edu/ 
-
-Library of Congress  
-https://catalog.loc.gov/index.html  
+- **Collections Search Center (Smithsonian Institution):** https://collections.si.edu/search/  
+- **Smithsonian Online Virtual Archive (SOVA):** https://sova.si.edu/ 
+- **Library of Congress:** https://catalog.loc.gov/index.html  
 
 Tips & Tricks to Searching Online Catalogs 
 __________________________________________
 Locating online catalogs  
+
 - Where to find them from a general google search or from the institutional website 
 
 Navigating online catalogs (Collections Search & SOVA & LOC)  
+
 - Short demo video might be best way to explain this rather than a bunch of screenshots? 
 
 Narrowing searches down 
+
 - Using the “archival repository” or “type” or “culture” or “division” parameters on the online catalog 
 
 Identifying digitized content in catalogs  
+
 - For Smithsonian material - look for the blue box icon labeled “digitized content” next to the collection name 
 - For Library of Congress material – look for a note in the catalog record or a media image will be included in the record 
 
 Search terms (each institution will have their own specific search terms that work best) 
+
 - Culture group, tribal community name, collector, artist, linguist, language, place name, geographical location   
 
 Finding Aids 
@@ -69,9 +68,10 @@ While it is always a good idea to do some preliminary online research, we also s
 
 Each institution has a preferred method of communication for being in touch:  
 
-- The National Anthropological Archives: All questions and inquiries should be directed to naa@si.edu. Questions and inquiries can also be made by phone at (301)-238-1310.    
-- National Museum of the American Indian – Archives Center: All questions and inquiries should be directed to nmaiarchives@si.edu. If you are specifically interested in photographs, those questions can be directed to the photo archives at nmaiphotos@si.edu.  
-- The Library of Congress: All questions and inquiries can be made via the Ask-a-Librarian general submission form on the Library of Congress website. If you have a sense of what type of materials you are interested in (e.g. manuscripts, photographs, maps, etc.) or regarding questions about materials you’ve already consulted, you can direct your question to a specific division. To do so, simply click on the “Ask a specialist” tab and then select the desired division. The specific Ask-a-Librarian pages for the four Library of Congress divisions involved in the Mukurtu Shared Project are: 
+- **The National Anthropological Archives:** All questions and inquiries should be directed to naa@si.edu. Questions and inquiries can also be made by phone at (301)-238-1310.    
+- **National Museum of the American Indian – Archives Center:** All questions and inquiries should be directed to nmaiarchives@si.edu. If you are specifically interested in photographs, those questions can be directed to the photo archives at nmaiphotos@si.edu.  
+- **The Library of Congress:** All questions and inquiries can be made via the Ask-a-Librarian general submission form on the Library of Congress website. If you have a sense of what type of materials you are interested in (e.g. manuscripts, photographs, maps, etc.) or regarding questions about materials you’ve already consulted, you can direct your question to a specific division. To do so, simply click on the “Ask a specialist” tab and then select the desired division. 
+- The specific Ask-a-Librarian pages for the four Library of Congress divisions involved in the Mukurtu Shared Project are: 
 
   - AFC: https://ask.loc.gov/american-folklife   
   - MSS: https://ask.loc.gov/manuscripts  
