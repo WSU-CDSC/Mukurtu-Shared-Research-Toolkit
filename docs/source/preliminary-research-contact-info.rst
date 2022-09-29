@@ -58,7 +58,7 @@ Depending on the institution, they often include a list of relevant materials di
 Since they are often focused (e.g., by tribal community), easy to navigate, and are essentially a comprehensive list of already identified material, they are a great place to start your research. For Native communities, they've been very useful, in that when they come for a visit, they often have a short amount of time that they want to use consulting materials they know have been identified with their community. 
 
 Contact Information 
-===================
+___________________
 While it is always a good idea to do some preliminary online research, we also strongly recommend getting in touch with reference staff about your research subject. They are familiar with the idiosyncrasies of their repository, as well as relevant collections that may not come up in your search.  
 
 Each institution has a preferred method of communication for being in touch:  
