@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Mukurtu Shared Research Toolkit'
+copyright = '20212, CDSC'
+author = 'CDSC'
 
 release = '0.1'
 version = '0.1.0'
