@@ -7,11 +7,14 @@ ________________
 What is your end goal? 
 
 Most research projects will be defined by their end goal, whether that is to contribute to a community’s digital collection, curriculum, museum exhibit, publication, etc. These goals will help guide the project and answer questions such as: 
+
 - what kind of research is required, and where.  
 - whether generating access copies of materials is sufficient, or if you will need higher quality scans 
+
   - Most research projects will be defined by their end goal, whether that is to create an online curriculum, a museum exhibit, an academic publication, etc. 
   - Asking this question will both help frame how you approach the project, and what kind of research is required.  
   - Answering this question will determine whether access copies of primary materials are sufficient, or if you will need high quality scans, for instance. It will also help you know how much material you need, and how deeply you need to go into the material. 
+  
 - Determine the scope of your project  
   - Determining the scope of your project will also require a strong sense of what your resources you have available to you, I.e. do you have travel funds available if you need to visit an archive? How much time do you have to do the research?  
 
