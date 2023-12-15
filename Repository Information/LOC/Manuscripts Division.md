@@ -1,4 +1,4 @@
-# Manuscripts Division
+# Manuscripts Division (MSS)
 
 ## What is the Manuscripts Division and what material does it hold? 
 The Manuscripts Division contains primarily manuscript material, ranging from the papers of a particular individual to government agencies to everything in between.  This means that in addition to manuscript material, within a collection you may also encounter photographs, maps, and microfilmed materials.  
