@@ -1,6 +1,6 @@
-**Research Best Practices:**
+# Research Best Practices:
 
-**Project Planning**
+## Project Planning
 
 What is your end goal?
 
