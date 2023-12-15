@@ -9,10 +9,10 @@
 5. [Feedback and Follow Up]()
 
 ## Repository Information
-1. [Library of Congress (LOC)]()
-2. [National Anthropological Archives (NAA)]()
-3. [National Museum of the American Indian (NMAI)]()
-4. [National Archives and Records Administration (NARA)]()
+1. [Library of Congress (LOC)](Repository%20Information/LOC)
+2. [National Anthropological Archives (NAA)](Repository%20Information/NAA)
+3. [National Museum of the American Indian (NMAI)](Repository%20Information/NMAI)
+4. [National Archives and Records Administration (NARA)](Repository%20Information/NARA)
 5. General Visiting Notes
    * [Culturally Sensitive Spaces](Repository%20Information/Culturally%20Sensitive%20Spaces.md)
    * [Accessibility](Repository%20Information/Accessibility.md)
