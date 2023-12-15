@@ -17,11 +17,10 @@ Most research projects will be defined by their end goal, whether that is to con
 
   - Determining the scope of your project will also require a strong sense of what your resources you have available to you, I.e. do you have travel funds available if you need to visit an archive? How much time do you have to do the research?
     1. Time
-      1.
     2. Staff
-      1. Who is involved in both doing the research? Will you need to involve other departments
+      a. Who is involved in both doing the research? Will you need to involve other departments
     3. Money
-      1. Travel, Digitization expenses, Compensation
+      a. Travel, Digitization expenses, Compensation
   - Will any collaboration or consultation with your organization or outside collaborators be required?
 
 - Identify your research topic
