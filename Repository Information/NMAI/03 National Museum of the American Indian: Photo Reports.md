@@ -7,9 +7,9 @@ To request a photo report, please follow these steps to connect with the Referen
 1. Contact the NMAI Reference Archivist at the NMAI Archives Center via email at [**nmaiarchives@si.edu.**](mailto:nmaiarchives@si.edu)At the moment the Reference Archivist is Nathan Sowry.
 
 2. In your email be sure to include:
-  1. Brief description of project (optional).
-  2. Tribal affiliation, if any.
-  3. Culture group(s) of interest.
+   * Brief description of project (optional).
+   * Tribal affiliation, if any.
+   * Culture group(s) of interest.
 
 3. The Reference Archivist will follow up by email with the photo report(s) attached as a PDF containing both the media and corresponding metadata.
 
