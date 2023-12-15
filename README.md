@@ -5,7 +5,7 @@
 1. [Research Best Practices](Research%20Workflow/Research%20Best%20Practices.md)
 2. [Preliminary Research and Contact Information](Research%20Workflow/Preliminary%20Research%20and%20Contact%20Information.md)
 3. [In-Person Research](Research%20Workflow/In-Person%20Research.md)
-4. [Requesting, Receiving, and Digitizing Media and Metadata](Research%20Workflow/Requesting,%20Receiving,%20and%20Digitizing%20Media%20and%20Metadata.md)
+4. [Requesting, Receiving, and Digitizing Media and Metadata](Research%20Workflow/Requesting%20Receiving%20and%20Digitizing%20Media%20and%20Metadata.md)
 5. [Feedback and Follow Up](Research%20Workflow/Feedback%20and%20Follow%20Up.md)
 
 ## Repository Information
