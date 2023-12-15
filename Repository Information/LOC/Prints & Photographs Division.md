@@ -16,7 +16,8 @@
   - "Many Nations" publication
   - Reading room card catalogs.
   - The Prints & Photographs Division of the Library of Congress published an online research guide in 2018 called: [Native American History: Finding Pictures](https://guides.loc.gov/native-american-pictures)
-  - Perhaps the most helpful P&P research guide is the [Indians of North America: A Guide to Pictorial Lots](https://archive.org/details/indiansofnortham00libr/mode/2up). Published by the division, this guide has been made available through the Internet Archive. The (searchable) Subject Index in the back is especially helpful when looking for materials from a particular place or community ([screenshot here](https://emailwsu.sharepoint.com/teams/libraries.cdsc/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fteams%2Flibraries%2Ecdsc%2FShared%20Documents%2FMukurtu%2FMukurtu%20Grants%2FMukurtu%20Shared%202020%2D2022%2FResearch%20Toolkit%2FResearch%20Toolkit%20Screenshots%2FLOC%5FP%26P&FolderCTID=0x01200044461245D09609409131FF3B6F4FAB18)).
+  - Perhaps the most helpful P&P research guide is the [Indians of North America: A Guide to Pictorial Lots](https://archive.org/details/indiansofnortham00libr/mode/2up). Published by the division, this guide has been made available through the Internet Archive. The (searchable) Subject Index in the back is especially helpful when looking for materials from a particular place or community.
+![LOC-P P - LOTs](https://github.com/WSU-CDSC/Mukurtu-Shared-Research-Toolkit/assets/88502274/4d2a22ab-109f-41bb-8dfe-01054e9d2921)
 
 In addition to the _Many Nations_ guide, the Prints & Photographs Division of the Library of Congress published an online research guide in 2018 called: [Native American History: Finding Pictures](https://guides.loc.gov/native-american-pictures)
 
@@ -27,5 +28,4 @@ In terms of the online catalog, in addition to giving some helpful context for h
 As the above search illustrates, many of the results will draw from LOTs. While the subject guide describes these LOTs in greater detail, it is important to note that they are materials which have been grouped together according to subject, provenance, or format by staff members at the Library of Congress. This is especially important in the context of materials of or relating to Indigenous communities because these perceived connections or relationships do not, or very rarely, mirror community perspectives and knowledge.
 
 That said, the division published a guide to the LOTs, titled, [Indians of North America: A Guide to Pictorial Lots](https://archive.org/details/indiansofnortham00libr/mode/2up), which has been made available through the Internet Archive. The (searchable) Subject Index in the back is especially helpful when looking for materials from a particular place or community.
-
-![](RackMultipart20231215-1-ca4gmm_html_bab3bdb0f8096694.jpg)
+![LOC-P P - Guide to Pictorial LOTs](https://github.com/WSU-CDSC/Mukurtu-Shared-Research-Toolkit/assets/88502274/b6e6a0b8-394f-45d1-afc9-227e9671a515)
