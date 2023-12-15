@@ -2,6 +2,5 @@
 Mukurtu Shared Research Toolkit
 
 
-## Order
-1) [Research Best Practices](Research%20Best%20Practices.md)
+##[Research Toolkit Workflow](Research%20Toolkit%20Workflow)
 
