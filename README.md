@@ -14,10 +14,10 @@
 3. [National Museum of the American Indian (NMAI)]()
 4. [National Archives and Records Administration (NARA)]()
 5. General Visiting Notes
-   * [Culturally Sensitive Spaces]()
+   * [Culturally Sensitive Spaces](Repository%20Information/Culturally%20Sensitive%20Spaces.md)
    * [Accessibility](Repository%20Information/Accessibility.md)
 
 ## [Additional Resources](Additional%20Resources)
-1. [Online Catalogs]()
-2. [SHN Videos]()
-3. [Other Resources.md]()
+1. [Online Catalogs](Additional%20Resources/ONline%20Catalogs.md)
+2. [SHN Videos](Additional%20Resources/SHN%20Videos.md)
+3. [Other Resources.md](Additional%20Resources/Other%20Resources.md)
