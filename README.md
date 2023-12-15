@@ -3,4 +3,4 @@ Mukurtu Shared Research Toolkit
 
 
 ## Order
-1) [Research Besh Practices](Mukurtu-Shared-Research-Toolkit/)
+1) [Research Best Practices](Mukurtu-Shared-Research-Toolkit/Research-Best-Practices.md)
