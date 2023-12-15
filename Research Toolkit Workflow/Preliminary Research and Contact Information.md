@@ -1,4 +1,4 @@
-## **Preliminary Research and Contact Information**
+# Preliminary Research and Contact Information
 
 Do these institutions even have things you \*might\* be interested in? The short answer is probably 'yes.' When it comes to federal repositories with an extensive amount of collections, the question is usually how to go about finding those things.
 
