@@ -1,4 +1,4 @@
-# Library of Congress Introduction
+# Library of Congress: Introduction
 
 The Library of Congress is the largest library in the world, with millions of books, films, videos, audio recordings, photographs, newspapers, maps, and manuscripts in its collections. Today's Library of Congress is an unparalleled world resource. The collection of more than 173 million items includes more than 51 million cataloged books and other print materials in 470 languages; more than 75 million manuscripts; and the largest rare book.
 
