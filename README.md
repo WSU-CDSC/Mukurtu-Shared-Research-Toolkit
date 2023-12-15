@@ -18,6 +18,6 @@
    * [Accessibility](Repository%20Information/Accessibility.md)
 
 ## [Additional Resources](Additional%20Resources)
-1. [Online Catalogs](Additional%20Resources/ONline%20Catalogs.md)
+1. [Online Catalogs](Additional%20Resources/Online%20Catalogs.md)
 2. [SHN Videos](Additional%20Resources/SHN%20Videos.md)
 3. [Other Resources.md](Additional%20Resources/Other%20Resources.md)
