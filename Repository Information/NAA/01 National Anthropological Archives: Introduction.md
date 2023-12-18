@@ -19,6 +19,7 @@ This is all to say that this work takes a lot of sifting, and a lot of time. And
 ## Different Information in Different Places
 
 To go back to the example of the Saginaw Chippewa, I had spent significant time searching the online catalog for materials related to the Saginaw Chippewa of Michigan and came across nothing. At some point, I decided to look at the card catalog in the reading room, where I found a card for a manuscript whose place was listed as "Saginaw, Mich." This same manuscript is listed on the online catalog, without the geographical identifier.
+
 ![image001](https://github.com/WSU-CDSC/Mukurtu-Shared-Research-Toolkit/assets/88502274/fc8c1da3-48e7-483c-857c-9a16021b0abb)
 
 In addition, this manuscript was sent to the Bureau of American Ethnology with a set of photographs. Historically, objects, photographs, and manuscript material were managed differently, and so were separated from one another upon arrival at BAE (and the objects ended up in an entirely different department). There is no indication in the record that there are related materials elsewhere in the archives, but in looking through the Source Print Collection, I found a folder in the "Eastern Canada: Chippewa" section with Harlan Smith's name on it, including images that he had submitted with his manuscript.
