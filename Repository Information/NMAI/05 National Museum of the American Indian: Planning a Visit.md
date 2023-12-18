@@ -34,6 +34,7 @@ See the map below to get a sense of where it is in relation to the NMAI museum a
 **Uber/Lyft:** 
 Rideshare apps are also a transportation option. Uber or Lyft costs approximately $40-60 one way, depending on the time of day. For drop off, let the guard at the front entrance gate know that you have a scheduled research appointment at the NMAI archives in the CRC. For pickup, a driver may come inside the gate and meet you at the front of the building. They will simply need to let the guard at the front entrance gate know that they are here for a researcher pickup.
 
-**Driving:**The CRC has their own parking lot that is available for researchers to use at no cost. Upon arrival at the front entrance gate, let the guard know that you have a scheduled research appointment at the NMAI archives in the CRC. Once through the front gate, make an immediate right turn which will put you into the CRC parking lot. Researchers may park in any open spot, and the front entrance to the building is at the far end of the parking lot.
+**Driving:**
+The CRC has their own parking lot that is available for researchers to use at no cost. Upon arrival at the front entrance gate, let the guard know that you have a scheduled research appointment at the NMAI archives in the CRC. Once through the front gate, make an immediate right turn which will put you into the CRC parking lot. Researchers may park in any open spot, and the front entrance to the building is at the far end of the parking lot.
 
 **For additional information please visit the NMAI Archive Center website:** [https://americanindian.si.edu/explore/collections/archive](https://americanindian.si.edu/explore/collections/archive)
