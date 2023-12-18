@@ -6,10 +6,13 @@ While conducting research, many community researchers may come across material t
 
 In all cases, the National Anthropological Archives, the NMAI Archives, and the Library of Congress welcome any additional knowledge, information, or corrections tribal community members may feel comfortable sharing.  
 
+If conversations are ongoing or if additional follow-up is required, contact the staff member involved in the initial conversation directly via email.     
+
 Each institution has its own method for sharing this kind of information and providing this type of feedback. Please see below for the specifics of each institution:   
 
-  National Anthropological Archives: The NAA has an “Information Please” form that researchers can fill out and return to a staff member with the information they would like to share. The form includes contact information, a description of the information you would like to share, and the corresponding material. The form is available in the reading room, simply ask the reference archivist for a copy, and it can be completed and returned during your visit.  
+### National Anthropological Archives: 
+The NAA has an “Information Please” form that researchers can fill out and return to a staff member with the information they would like to share. The form includes contact information, a description of the information you would like to share, and the corresponding material. The form is available in the reading room, simply ask the reference archivist for a copy, and it can be completed and returned during your visit.  
 
-  National Museum of the American Indian – Archives Center: NMAI has an “Information Please” form that researchers can fill out and return to the Reference Archivist with the information they would like to share. The form is available in the reading room from the Reference Archivist. A downloadable copy is also provided here. Completed forms should be returned to the Reference Archivist.  
+### National Museum of the American Indian – Archives Center: 
+NMAI has an “Information Please” form that researchers can fill out and return to the Reference Archivist with the information they would like to share. The form is available in the reading room from the Reference Archivist. A downloadable copy is also provided here. Completed forms should be returned to the Reference Archivist.  
 
-If conversations are ongoing or if additional follow-up is required, contact the staff member involved in the initial conversation directly via email.     
