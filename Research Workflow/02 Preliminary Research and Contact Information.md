@@ -13,7 +13,7 @@ One of the most important tools at your disposal as a researcher is a repository
 
 All of that said, it takes some amount of trial and error to figure out how to navigate online catalogues in a way that is most useful for you and your research. Don't be discouraged if you try a few searches that turn up few or no relevant results. Once you have a better sense of how things are organized in the catalog, then your search will likely change and become more specific to that particular archive, its history, and its holdings.
 
-> The allow you to know as much as you can know from a distance, which is sometimes all you have.
+***They allow you to know as much as you can know from a distance, which is sometimes all you have.***
 
 * Collections Search Center (Smithsonian Institution) [https://collections.si.edu/search/](https://collections.si.edu/search/)
 
@@ -24,8 +24,8 @@ All of that said, it takes some amount of trial and error to figure out how to n
 ## Tips & Tricks to Searching Online Catalogs
 * Locating online catalogs
   * Where to find them from a general google search or from the institutional website
-* Navigating online catalogs (Collections Search & SOVA & LOC)
-  * Short demo video might be best way to explain this rather than a bunch of screenshots?
+<!--* Navigating online catalogs (Collections Search & SOVA & LOC) 
+  * Short demo video might be best way to explain this rather than a bunch of screenshots? -->
 * Narrowing searches down
   * Using the "archival repository" or "type" or "culture" or "division" parameters on the online catalog
 * Identifying digitized content in catalogs
