@@ -4,4 +4,4 @@ First and foremost, the staff at all the repositories we conducted research in d
 
 In most cases the archives staff is small, but their connections with other departments, both within and outside of their institutions, are extensive.  If you have a question that falls outside the archives, the reference archivist can usually point you towards the best contact and is always happy to make an introduction. 
 
-### See the "Planning a Visit" section of the repository guides.
+For details on arranging in person research, see the [repository-specific guides[(Repository%20Information).
