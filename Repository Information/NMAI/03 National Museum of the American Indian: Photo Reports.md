@@ -4,7 +4,7 @@ The Reference Archivist and Archives team oversees both the archival and photogr
 
 To request a photo report, please follow these steps to connect with the Reference Archivist:
 
-1. Contact the NMAI Reference Archivist at the NMAI Archives Center via email at [**nmaiarchives@si.edu.**](mailto:nmaiarchives@si.edu)At the moment the Reference Archivist is Nathan Sowry.
+1. Contact the NMAI Reference Archivist at the NMAI Archives Center via email at [**nmaiarchives@si.edu.**](mailto:nmaiarchives@si.edu) At the moment the Reference Archivist is Nathan Sowry.
 
 2. In your email be sure to include:
    * Brief description of project (optional).
