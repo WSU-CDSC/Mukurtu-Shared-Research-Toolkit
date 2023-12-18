@@ -1,6 +1,6 @@
 # Sustainable Heritage Network Videos
 
-## Genmeral/Cross-Institutional
+## General/Cross-Institutional
 * Logistics and Accessing Physical Archival Materials (Caitlin Haynes) [https://www.sustainableheritagenetwork.org/digital-heritage/logistics-accessing-physical-archival-materials](https://www.sustainableheritagenetwork.org/digital-heritage/logistics-accessing-physical-archival-materials)
 
 * Finding Archival Collections Online (Caitlin Haynes) [https://www.sustainableheritagenetwork.org/digital-heritage/finding-archival-collections-online](https://www.sustainableheritagenetwork.org/digital-heritage/finding-archival-collections-online)
